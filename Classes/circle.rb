@@ -14,6 +14,14 @@ class Circle < Shape
     puts "Custom calc Area"
   end
 
+  def anothermethod
+
+  end
+
+  def anothermethod1
+
+  end
+
 end
 
 mycircle = Circle.new(10)
